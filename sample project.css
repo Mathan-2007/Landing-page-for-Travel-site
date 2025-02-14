@@ -57,7 +57,7 @@
    font-size: large;
 }
 .image{
-    height: 145%;
+    height: 115%;
     width: fit-content;
 }
 #sec{
@@ -67,7 +67,7 @@
 }
 #img2{
  position: absolute;
- top: 210%;
+ top: 180%;
  right: 3%;
  height: 60%;
 
