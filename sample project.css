@@ -1,8 +1,11 @@
 .home {
     display: inline;
 }
+.homee{
+    display: inline;
+}
 #home1{
-    padding-left: 32%;
+    padding-left: 22%;
     font-weight: bolder;
 }
 #login{
